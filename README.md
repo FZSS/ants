@@ -17,16 +17,12 @@ python3 ants_gui.py
 
 There are many options to configure:
 >   -h, --help      Prints this help message
-
 >   -t, --ten       Start with ten food
-    
 >   -f, --full      Loads a full layout and assault plan
-    
 >   -w, --water     Loads a full layout with water
-    
 >   -i, --insane    Loads a difficult assault plan
 
-I recommend trying 
+I recommend trying
 ```bash
 python3 ants_gui.py -f -w -t
 ```
